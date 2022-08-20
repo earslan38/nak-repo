@@ -4,6 +4,6 @@
 1st change feature123
 >>>>>>> feature123
 2nd change rebase 1
-3rd change
+3rd change rebase2
 1st cahnge in feature123
 added new line
